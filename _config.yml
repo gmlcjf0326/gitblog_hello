@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Galada Theme | Theme for Jekyll
+title: Heechal's Theme | Theme for Jekyll
 description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
 baseurl: "/gitblog_hello" # the subpath of your site, e.g. /blog
 url: "https://gmlcjf0326.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "https://gmlcjf0326.github.io/" # the base hostname & protocol for your sit
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
+author-name:   Heechal
 author-avatar: 09.jpg
 
 
